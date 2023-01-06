@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on GXChain
-- 🌱 I’m currently learning Rust and Polkadot
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: 826015751@qq.com
 
 [![bijianing97's github stats](https://github-readme-stats.vercel.app/api?username=bijianing97&count_private=true&show_icons=true)](https://github.com/bijianing97)
